@@ -42,7 +42,7 @@ def parse_listings(soup):
         features=content.find_all('span',class_='p24_featureDetails')
         if features:
             for feature in features:
-                feature_name=feature.get('title').lower()
+                feature_name=feature.get('title').lower().strip()
                 if feature_name in expected_fields:
                     feature_value=feature.get_text(strip=True)
                     attrs[feature_name]=feature_value
