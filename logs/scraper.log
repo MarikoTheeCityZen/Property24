@@ -1,0 +1,510 @@
+2026-03-11 12:15:42,779 - INFO - Connected to database at data/listings.db
+2026-03-11 12:16:42,849 - INFO - Connected to database at data/listings.db
+2026-03-11 12:16:42,849 - INFO - Session created with custom headers.
+2026-03-11 12:16:44,381 - INFO - last_page: 7308
+2026-03-11 12:16:44,381 - ERROR - No checkpoint file found. Starting from the first page.
+2026-03-11 12:16:45,032 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=1 on attempt 1
+2026-03-11 12:16:45,247 - INFO - Page 1: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:16:47,116 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=2 on attempt 1
+2026-03-11 12:16:47,296 - INFO - Page 2: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:16:48,500 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=3 on attempt 1
+2026-03-11 12:16:48,681 - INFO - Page 3: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:16:49,870 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=4 on attempt 1
+2026-03-11 12:16:50,047 - INFO - Page 4: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:16:50,393 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=5 on attempt 1
+2026-03-11 12:16:50,593 - INFO - Page 5: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:16:51,697 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=6 on attempt 1
+2026-03-11 12:16:51,889 - INFO - Page 6: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:16:52,928 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=7 on attempt 1
+2026-03-11 12:16:53,104 - INFO - Page 7: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:16:53,397 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=8 on attempt 1
+2026-03-11 12:16:53,574 - INFO - Page 8: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:16:55,688 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=9 on attempt 1
+2026-03-11 12:16:55,856 - INFO - Page 9: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:16:57,459 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=10 on attempt 1
+2026-03-11 12:16:57,641 - INFO - Page 10: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:16:59,436 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=11 on attempt 1
+2026-03-11 12:16:59,611 - INFO - Page 11: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:01,242 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=12 on attempt 1
+2026-03-11 12:17:01,439 - INFO - Page 12: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:01,739 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=13 on attempt 1
+2026-03-11 12:17:01,950 - INFO - Page 13: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:03,314 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=14 on attempt 1
+2026-03-11 12:17:03,491 - INFO - Page 14: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:04,813 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=15 on attempt 1
+2026-03-11 12:17:04,980 - INFO - Page 15: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:06,807 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=16 on attempt 1
+2026-03-11 12:17:07,000 - INFO - Page 16: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:08,358 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=17 on attempt 1
+2026-03-11 12:17:08,528 - INFO - Page 17: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:10,405 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=18 on attempt 1
+2026-03-11 12:17:10,586 - INFO - Page 18: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:11,257 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=19 on attempt 1
+2026-03-11 12:17:11,424 - INFO - Page 19: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:11,884 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=20 on attempt 1
+2026-03-11 12:17:12,070 - INFO - Page 20: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:12,719 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=21 on attempt 1
+2026-03-11 12:17:12,889 - INFO - Page 21: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:13,479 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=22 on attempt 1
+2026-03-11 12:17:13,657 - INFO - Page 22: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:13,862 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=23 on attempt 1
+2026-03-11 12:17:14,037 - INFO - Page 23: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:16,045 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=24 on attempt 1
+2026-03-11 12:17:16,280 - INFO - Page 24: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:16,763 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=25 on attempt 1
+2026-03-11 12:17:16,948 - INFO - Page 25: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:18,988 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=26 on attempt 1
+2026-03-11 12:17:19,216 - INFO - Page 26: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:19,984 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=27 on attempt 1
+2026-03-11 12:17:20,260 - INFO - Page 27: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:21,854 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=28 on attempt 1
+2026-03-11 12:17:22,088 - INFO - Page 28: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:23,238 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=29 on attempt 1
+2026-03-11 12:17:23,488 - INFO - Page 29: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:23,867 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=30 on attempt 1
+2026-03-11 12:17:24,155 - INFO - Page 30: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:24,617 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=31 on attempt 1
+2026-03-11 12:17:24,960 - INFO - Page 31: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:26,106 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=32 on attempt 1
+2026-03-11 12:17:26,433 - INFO - Page 32: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:26,917 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=33 on attempt 1
+2026-03-11 12:17:27,125 - INFO - Page 33: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:27,883 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=34 on attempt 1
+2026-03-11 12:17:28,122 - INFO - Page 34: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:30,308 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=35 on attempt 1
+2026-03-11 12:17:30,561 - INFO - Page 35: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:31,325 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=36 on attempt 1
+2026-03-11 12:17:31,502 - INFO - Page 36: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:31,869 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=37 on attempt 1
+2026-03-11 12:17:32,110 - INFO - Page 37: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:33,268 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=38 on attempt 1
+2026-03-11 12:17:33,451 - INFO - Page 38: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:35,193 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=39 on attempt 1
+2026-03-11 12:17:35,371 - INFO - Page 39: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:37,295 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=40 on attempt 1
+2026-03-11 12:17:37,482 - INFO - Page 40: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:39,071 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=41 on attempt 1
+2026-03-11 12:17:39,246 - INFO - Page 41: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 12:17:40,429 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=42 on attempt 1
+2026-03-11 12:17:40,602 - INFO - Page 42: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:42,508 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=43 on attempt 1
+2026-03-11 12:17:42,694 - INFO - Page 43: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:43,769 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=44 on attempt 1
+2026-03-11 12:17:44,015 - INFO - Page 44: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 12:17:44,702 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=45 on attempt 1
+2026-03-11 12:17:44,869 - INFO - Page 45: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:46,426 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=46 on attempt 1
+2026-03-11 12:17:46,600 - INFO - Page 46: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:48,457 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=47 on attempt 1
+2026-03-11 12:17:48,614 - INFO - Page 47: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:50,455 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=48 on attempt 1
+2026-03-11 12:17:50,625 - INFO - Page 48: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 12:17:52,171 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=49 on attempt 1
+2026-03-11 12:17:52,352 - INFO - Page 49: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:54,260 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=50 on attempt 1
+2026-03-11 12:17:54,440 - INFO - Page 50: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:55,761 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=51 on attempt 1
+2026-03-11 12:17:55,958 - INFO - Page 51: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 12:17:57,487 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=52 on attempt 1
+2026-03-11 12:17:57,679 - INFO - Page 52: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:17:59,694 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=53 on attempt 1
+2026-03-11 12:17:59,885 - INFO - Page 53: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 12:18:01,447 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=54 on attempt 1
+2026-03-11 12:18:01,642 - INFO - Page 54: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:02,496 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=55 on attempt 1
+2026-03-11 12:18:02,657 - INFO - Page 55: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:03,245 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=56 on attempt 1
+2026-03-11 12:18:03,414 - INFO - Page 56: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:04,941 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=57 on attempt 1
+2026-03-11 12:18:05,116 - INFO - Page 57: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:06,014 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=58 on attempt 1
+2026-03-11 12:18:06,212 - INFO - Page 58: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:08,426 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=59 on attempt 1
+2026-03-11 12:18:08,613 - INFO - Page 59: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 12:18:09,112 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=60 on attempt 1
+2026-03-11 12:18:09,312 - INFO - Page 60: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:10,762 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=61 on attempt 1
+2026-03-11 12:18:10,937 - INFO - Page 61: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:12,222 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=62 on attempt 1
+2026-03-11 12:18:12,478 - INFO - Page 62: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:14,434 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=63 on attempt 1
+2026-03-11 12:18:14,613 - INFO - Page 63: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 12:18:14,851 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=64 on attempt 1
+2026-03-11 12:18:15,027 - INFO - Page 64: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:16,303 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=65 on attempt 1
+2026-03-11 12:18:16,561 - INFO - Page 65: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:17,865 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=66 on attempt 1
+2026-03-11 12:18:18,075 - INFO - Page 66: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:19,690 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=67 on attempt 1
+2026-03-11 12:18:19,907 - INFO - Page 67: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:21,584 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=68 on attempt 1
+2026-03-11 12:18:21,771 - INFO - Page 68: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 12:18:22,895 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=69 on attempt 1
+2026-03-11 12:18:23,093 - INFO - Page 69: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:25,362 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=70 on attempt 1
+2026-03-11 12:18:25,573 - INFO - Page 70: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:27,087 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=71 on attempt 1
+2026-03-11 12:18:27,282 - INFO - Page 71: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:28,712 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=72 on attempt 1
+2026-03-11 12:18:28,899 - INFO - Page 72: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:29,850 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=73 on attempt 1
+2026-03-11 12:18:30,037 - INFO - Page 73: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:30,963 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=74 on attempt 1
+2026-03-11 12:18:31,161 - INFO - Page 74: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:32,949 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=75 on attempt 1
+2026-03-11 12:18:33,188 - INFO - Page 75: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:33,949 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=76 on attempt 1
+2026-03-11 12:18:34,133 - INFO - Page 76: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:18:34,906 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=77 on attempt 1
+2026-03-11 12:18:35,078 - INFO - Page 77: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 12:18:36,119 - INFO - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=78 on attempt 1
+2026-03-11 12:18:36,291 - INFO - Page 78: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:20:48,541 - INFO - database - Connected to database at data/listings.db
+2026-03-11 12:20:48,542 - INFO - fetcher - Session created with custom headers.
+2026-03-11 12:20:49,961 - INFO - __main__ - last_page: 7308
+2026-03-11 12:20:50,458 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=79 on attempt 1
+2026-03-11 12:20:50,634 - INFO - __main__ - Page 79: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 12:20:52,538 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=80 on attempt 1
+2026-03-11 12:20:52,704 - INFO - __main__ - Page 80: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:20:53,504 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=81 on attempt 1
+2026-03-11 12:20:53,684 - INFO - __main__ - Page 81: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:20:55,558 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=82 on attempt 1
+2026-03-11 12:20:55,726 - INFO - __main__ - Page 82: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:20:57,704 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=83 on attempt 1
+2026-03-11 12:20:57,871 - INFO - __main__ - Page 83: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:20:59,208 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=84 on attempt 1
+2026-03-11 12:20:59,364 - INFO - __main__ - Page 84: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:00,669 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=85 on attempt 1
+2026-03-11 12:21:00,831 - INFO - __main__ - Page 85: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:01,875 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=86 on attempt 1
+2026-03-11 12:21:02,052 - INFO - __main__ - Page 86: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:03,005 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=87 on attempt 1
+2026-03-11 12:21:03,189 - INFO - __main__ - Page 87: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:03,817 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=88 on attempt 1
+2026-03-11 12:21:04,005 - INFO - __main__ - Page 88: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:05,467 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=89 on attempt 1
+2026-03-11 12:21:05,666 - INFO - __main__ - Page 89: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:06,378 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=90 on attempt 1
+2026-03-11 12:21:06,550 - INFO - __main__ - Page 90: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 12:21:08,308 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=91 on attempt 1
+2026-03-11 12:21:08,484 - INFO - __main__ - Page 91: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 12:21:09,003 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=92 on attempt 1
+2026-03-11 12:21:09,181 - INFO - __main__ - Page 92: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:10,919 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=93 on attempt 1
+2026-03-11 12:21:11,080 - INFO - __main__ - Page 93: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:11,918 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=94 on attempt 1
+2026-03-11 12:21:12,081 - INFO - __main__ - Page 94: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:13,890 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=95 on attempt 1
+2026-03-11 12:21:14,059 - INFO - __main__ - Page 95: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:14,749 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=96 on attempt 1
+2026-03-11 12:21:14,913 - INFO - __main__ - Page 96: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:16,128 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=97 on attempt 1
+2026-03-11 12:21:16,330 - INFO - __main__ - Page 97: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:18,337 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=98 on attempt 1
+2026-03-11 12:21:18,510 - INFO - __main__ - Page 98: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:19,593 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=99 on attempt 1
+2026-03-11 12:21:19,751 - INFO - __main__ - Page 99: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:20,882 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=100 on attempt 1
+2026-03-11 12:21:21,055 - INFO - __main__ - Page 100: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:21,467 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=101 on attempt 1
+2026-03-11 12:21:21,681 - INFO - __main__ - Page 101: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 12:21:22,668 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=102 on attempt 1
+2026-03-11 12:21:22,854 - INFO - __main__ - Page 102: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:23,044 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=103 on attempt 1
+2026-03-11 12:21:23,232 - INFO - __main__ - Page 103: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:24,886 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=104 on attempt 1
+2026-03-11 12:21:25,049 - INFO - __main__ - Page 104: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:26,180 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=105 on attempt 1
+2026-03-11 12:21:26,355 - INFO - __main__ - Page 105: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 12:21:28,490 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=106 on attempt 1
+2026-03-11 12:21:28,672 - INFO - __main__ - Page 106: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:30,001 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=107 on attempt 1
+2026-03-11 12:21:30,166 - INFO - __main__ - Page 107: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:31,607 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=108 on attempt 1
+2026-03-11 12:21:31,782 - INFO - __main__ - Page 108: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:31,974 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=109 on attempt 1
+2026-03-11 12:21:32,154 - INFO - __main__ - Page 109: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:32,984 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=110 on attempt 1
+2026-03-11 12:21:33,170 - INFO - __main__ - Page 110: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:35,086 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=111 on attempt 1
+2026-03-11 12:21:35,280 - INFO - __main__ - Page 111: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:36,029 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=112 on attempt 1
+2026-03-11 12:21:36,204 - INFO - __main__ - Page 112: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:37,249 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=113 on attempt 1
+2026-03-11 12:21:37,458 - INFO - __main__ - Page 113: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:39,204 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=114 on attempt 1
+2026-03-11 12:21:39,388 - INFO - __main__ - Page 114: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:40,275 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=115 on attempt 1
+2026-03-11 12:21:40,454 - INFO - __main__ - Page 115: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:41,720 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=116 on attempt 1
+2026-03-11 12:21:41,896 - INFO - __main__ - Page 116: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:42,666 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=117 on attempt 1
+2026-03-11 12:21:42,873 - INFO - __main__ - Page 117: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:43,957 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=118 on attempt 1
+2026-03-11 12:21:44,137 - INFO - __main__ - Page 118: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:44,453 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=119 on attempt 1
+2026-03-11 12:21:44,652 - INFO - __main__ - Page 119: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:45,869 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=120 on attempt 1
+2026-03-11 12:21:46,033 - INFO - __main__ - Page 120: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:47,015 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=121 on attempt 1
+2026-03-11 12:21:47,178 - INFO - __main__ - Page 121: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:48,749 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=122 on attempt 1
+2026-03-11 12:21:48,945 - INFO - __main__ - Page 122: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:49,638 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=123 on attempt 1
+2026-03-11 12:21:49,811 - INFO - __main__ - Page 123: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:50,603 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=124 on attempt 1
+2026-03-11 12:21:50,770 - INFO - __main__ - Page 124: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:51,775 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=125 on attempt 1
+2026-03-11 12:21:51,942 - INFO - __main__ - Page 125: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:52,178 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=126 on attempt 1
+2026-03-11 12:21:52,347 - INFO - __main__ - Page 126: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:54,377 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=127 on attempt 1
+2026-03-11 12:21:54,550 - INFO - __main__ - Page 127: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:55,035 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=128 on attempt 1
+2026-03-11 12:21:55,205 - INFO - __main__ - Page 128: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:21:57,456 - INFO - fetcher - Successfully fetched URL: https://www.property24.co.ke/property-to-rent-in-nairobi-c1890?Page=129 on attempt 1
+2026-03-11 12:24:20,190 - INFO - database - Connected to database at data/listings.db
+2026-03-11 12:24:20,191 - INFO - fetcher - Session created with custom headers.
+2026-03-11 12:24:21,574 - INFO - __main__ - last_page: 7308
+2026-03-11 12:24:22,334 - INFO - __main__ - Page 129: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 12:24:23,726 - INFO - __main__ - Page 130: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:26,133 - INFO - __main__ - Page 131: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:28,060 - INFO - __main__ - Page 132: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:28,884 - INFO - __main__ - Page 133: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:29,598 - INFO - __main__ - Page 134: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:31,202 - INFO - __main__ - Page 135: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:33,772 - INFO - __main__ - Page 136: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:36,082 - INFO - __main__ - Page 137: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:38,676 - INFO - __main__ - Page 138: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:39,805 - INFO - __main__ - Page 139: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:40,769 - INFO - __main__ - Page 140: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:42,669 - INFO - __main__ - Page 141: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:44,102 - INFO - __main__ - Page 142: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:46,120 - INFO - __main__ - Page 143: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:46,635 - INFO - __main__ - Page 144: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:47,887 - INFO - __main__ - Page 145: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:49,010 - INFO - __main__ - Page 146: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:50,225 - INFO - __main__ - Page 147: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:50,745 - INFO - __main__ - Page 148: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:52,154 - INFO - __main__ - Page 149: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:53,875 - INFO - __main__ - Page 150: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:55,498 - INFO - __main__ - Page 151: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:58,232 - INFO - __main__ - Page 152: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:24:59,053 - INFO - __main__ - Page 153: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:25:00,874 - INFO - __main__ - Page 154: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:25:02,833 - INFO - __main__ - Page 155: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:25:03,557 - INFO - __main__ - Page 156: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:25:05,445 - INFO - __main__ - Page 157: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 12:25:06,974 - INFO - __main__ - Page 158: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:04:19,885 - INFO - database - Connected to database at data/listings.db
+2026-03-11 13:04:19,886 - INFO - fetcher - Session created with custom headers.
+2026-03-11 13:04:21,460 - INFO - __main__ - last_page: 7308
+2026-03-11 13:04:21,460 - ERROR - futbol24.checkpoint - No checkpoint file found. Starting from the first page.
+2026-03-11 13:04:37,298 - INFO - database - Connected to database at data/listings.db
+2026-03-11 13:04:37,299 - INFO - fetcher - Session created with custom headers.
+2026-03-11 13:04:38,498 - INFO - __main__ - last_page: 7308
+2026-03-11 13:04:38,498 - ERROR - futbol24.checkpoint - No checkpoint file found. Starting from the first page.
+2026-03-11 13:05:20,124 - INFO - database - Connected to database at data/listings.db
+2026-03-11 13:05:20,125 - INFO - fetcher - Session created with custom headers.
+2026-03-11 13:05:21,293 - INFO - __main__ - last_page: 7308
+2026-03-11 13:05:21,293 - ERROR - futbol24.checkpoint - No checkpoint file found. Starting from the first page.
+2026-03-11 13:06:05,256 - INFO - database - Connected to database at data/listings.db
+2026-03-11 13:06:05,257 - INFO - fetcher - Session created with custom headers.
+2026-03-11 13:06:06,441 - INFO - __main__ - last_page: 7308
+2026-03-11 13:06:06,441 - ERROR - futbol24.checkpoint - No checkpoint file found. Starting from the first page.
+2026-03-11 13:06:22,908 - INFO - database - Connected to database at data/listings.db
+2026-03-11 13:06:22,909 - INFO - fetcher - Session created with custom headers.
+2026-03-11 13:06:24,246 - INFO - __main__ - last_page: 7308
+2026-03-11 13:06:24,247 - ERROR - futbol24.checkpoint - No checkpoint file found. Starting from the first page.
+2026-03-11 13:07:06,063 - INFO - database - Connected to database at data/listings.db
+2026-03-11 13:07:06,064 - INFO - fetcher - Session created with custom headers.
+2026-03-11 13:07:07,424 - INFO - __main__ - last_page: 7308
+2026-03-11 13:07:07,425 - ERROR - futbol24.checkpoint - No checkpoint file found. Starting from the first page.
+2026-03-11 13:08:06,069 - INFO - database - Connected to database at data/listings.db
+2026-03-11 13:08:06,069 - INFO - fetcher - Session created with custom headers.
+2026-03-11 13:08:07,339 - INFO - __main__ - last_page: 7308
+2026-03-11 13:08:07,340 - ERROR - futbol24.checkpoint - No checkpoint file found. Starting from the first page.
+2026-03-11 13:08:53,841 - INFO - database - Connected to database at data/listings.db
+2026-03-11 13:08:53,842 - INFO - fetcher - Session created with custom headers.
+2026-03-11 13:08:54,765 - INFO - __main__ - last_page: 7308
+2026-03-11 13:08:54,765 - ERROR - futbol24.checkpoint - No checkpoint file found. Starting from the first page.
+2026-03-11 13:08:55,089 - INFO - __main__ - Page 1: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:08:56,081 - INFO - __main__ - Page 2: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:08:56,736 - INFO - __main__ - Page 3: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:08:57,592 - INFO - __main__ - Page 4: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:08:59,668 - INFO - __main__ - Page 5: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:30,452 - INFO - database - Connected to database at data/listings.db
+2026-03-11 13:10:30,453 - INFO - fetcher - Session created with custom headers.
+2026-03-11 13:10:31,882 - INFO - __main__ - last_page: 7309
+2026-03-11 13:10:31,882 - ERROR - futbol24.checkpoint - No checkpoint file found. Starting from the first page.
+2026-03-11 13:10:32,669 - INFO - __main__ - Page 1: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:35,033 - INFO - __main__ - Page 2: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:37,482 - INFO - __main__ - Page 3: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:37,902 - INFO - __main__ - Page 4: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:40,147 - INFO - __main__ - Page 5: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:42,329 - INFO - __main__ - Page 6: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:43,463 - INFO - __main__ - Page 7: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:45,222 - INFO - __main__ - Page 8: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:45,640 - INFO - __main__ - Page 9: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:46,186 - INFO - __main__ - Page 10: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:47,261 - INFO - __main__ - Page 11: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:49,489 - INFO - __main__ - Page 12: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 13:10:50,364 - INFO - __main__ - Page 13: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:51,933 - INFO - __main__ - Page 14: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:53,191 - INFO - __main__ - Page 15: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:54,223 - INFO - __main__ - Page 16: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:56,061 - INFO - __main__ - Page 17: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:10:57,375 - INFO - __main__ - Page 18: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:01,395 - INFO - __main__ - Page 19: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:03,607 - INFO - __main__ - Page 20: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:04,862 - INFO - __main__ - Page 21: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:05,790 - INFO - __main__ - Page 22: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:06,843 - INFO - __main__ - Page 23: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:07,663 - INFO - __main__ - Page 24: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:08,761 - INFO - __main__ - Page 25: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:10,997 - INFO - __main__ - Page 26: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:13,353 - INFO - __main__ - Page 27: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:14,437 - INFO - __main__ - Page 28: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:16,454 - INFO - __main__ - Page 29: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:17,474 - INFO - __main__ - Page 30: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:18,094 - INFO - __main__ - Page 31: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:20,481 - INFO - __main__ - Page 32: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:21,856 - INFO - __main__ - Page 33: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:23,949 - INFO - __main__ - Page 34: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:24,729 - INFO - __main__ - Page 35: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:26,024 - INFO - __main__ - Page 36: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:27,126 - INFO - __main__ - Page 37: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:28,020 - INFO - __main__ - Page 38: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:30,538 - INFO - __main__ - Page 39: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:31,237 - INFO - __main__ - Page 40: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:31,853 - INFO - __main__ - Page 41: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:33,647 - INFO - __main__ - Page 42: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:35,244 - INFO - __main__ - Page 43: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:35,700 - INFO - __main__ - Page 44: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:37,963 - INFO - __main__ - Page 45: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:40,023 - INFO - __main__ - Page 46: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 13:11:41,110 - INFO - __main__ - Page 47: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 13:11:43,042 - INFO - __main__ - Page 48: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:43,668 - INFO - __main__ - Page 49: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:45,388 - INFO - __main__ - Page 50: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:46,377 - INFO - __main__ - Page 51: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:47,328 - INFO - __main__ - Page 52: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:49,722 - INFO - __main__ - Page 53: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:50,563 - INFO - __main__ - Page 54: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:51,702 - INFO - __main__ - Page 55: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:53,472 - INFO - __main__ - Page 56: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:55,626 - INFO - __main__ - Page 57: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:11:57,839 - INFO - __main__ - Page 58: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:00,305 - INFO - __main__ - Page 59: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:01,183 - INFO - __main__ - Page 60: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:03,481 - INFO - __main__ - Page 61: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:04,503 - INFO - __main__ - Page 62: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:06,811 - INFO - __main__ - Page 63: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:09,045 - INFO - __main__ - Page 64: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:11,378 - INFO - __main__ - Page 65: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:13,339 - INFO - __main__ - Page 66: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:15,609 - INFO - __main__ - Page 67: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:17,081 - INFO - __main__ - Page 68: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:18,960 - INFO - __main__ - Page 69: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:20,536 - INFO - __main__ - Page 70: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:22,980 - INFO - __main__ - Page 71: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:24,113 - INFO - __main__ - Page 72: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:26,299 - INFO - __main__ - Page 73: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 13:12:28,583 - INFO - __main__ - Page 74: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:31,230 - INFO - __main__ - Page 75: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:32,291 - INFO - __main__ - Page 76: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:33,543 - INFO - __main__ - Page 77: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:35,967 - INFO - __main__ - Page 78: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:36,827 - INFO - __main__ - Page 79: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:38,680 - INFO - __main__ - Page 80: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:40,489 - INFO - __main__ - Page 81: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:41,900 - INFO - __main__ - Page 82: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:42,541 - INFO - __main__ - Page 83: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:44,413 - INFO - __main__ - Page 84: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:47,212 - INFO - __main__ - Page 85: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:49,393 - INFO - __main__ - Page 86: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:50,379 - INFO - __main__ - Page 87: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:51,400 - INFO - __main__ - Page 88: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:52,507 - INFO - __main__ - Page 89: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:54,613 - INFO - __main__ - Page 90: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:55,735 - INFO - __main__ - Page 91: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:57,535 - INFO - __main__ - Page 92: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:12:58,336 - INFO - __main__ - Page 93: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:00,092 - INFO - __main__ - Page 94: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:01,752 - INFO - __main__ - Page 95: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:02,462 - INFO - __main__ - Page 96: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:03,320 - INFO - __main__ - Page 97: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:05,400 - INFO - __main__ - Page 98: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:08,127 - INFO - __main__ - Page 99: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:09,512 - INFO - __main__ - Page 100: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:10,778 - INFO - __main__ - Page 101: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:11,510 - INFO - __main__ - Page 102: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:14,138 - INFO - __main__ - Page 103: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:15,254 - INFO - __main__ - Page 104: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:16,710 - INFO - __main__ - Page 105: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:19,012 - INFO - __main__ - Page 106: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:20,366 - INFO - __main__ - Page 107: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:21,610 - INFO - __main__ - Page 108: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:23,297 - INFO - __main__ - Page 109: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:25,475 - INFO - __main__ - Page 110: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:26,177 - INFO - __main__ - Page 111: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:28,004 - INFO - __main__ - Page 112: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:29,197 - INFO - __main__ - Page 113: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:31,449 - INFO - __main__ - Page 114: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:32,602 - INFO - __main__ - Page 115: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:34,881 - INFO - __main__ - Page 116: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:36,633 - INFO - __main__ - Page 117: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:38,254 - INFO - __main__ - Page 118: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:40,416 - INFO - __main__ - Page 119: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:41,475 - INFO - __main__ - Page 120: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:42,332 - INFO - __main__ - Page 121: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:43,899 - INFO - __main__ - Page 122: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:44,925 - INFO - __main__ - Page 123: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:46,777 - INFO - __main__ - Page 124: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:48,712 - INFO - __main__ - Page 125: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:49,993 - INFO - __main__ - Page 126: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 13:13:51,573 - INFO - __main__ - Page 127: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:53,579 - INFO - __main__ - Page 128: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:55,760 - INFO - __main__ - Page 129: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 13:13:56,335 - INFO - __main__ - Page 130: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:58,289 - INFO - __main__ - Page 131: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:13:58,736 - INFO - __main__ - Page 132: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:00,066 - INFO - __main__ - Page 133: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:00,930 - INFO - __main__ - Page 134: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:01,502 - INFO - __main__ - Page 135: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:02,023 - INFO - __main__ - Page 136: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:02,555 - INFO - __main__ - Page 137: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:03,368 - INFO - __main__ - Page 138: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:05,658 - INFO - __main__ - Page 139: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:06,660 - INFO - __main__ - Page 140: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:07,261 - INFO - __main__ - Page 141: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:07,761 - INFO - __main__ - Page 142: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:08,354 - INFO - __main__ - Page 143: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:09,098 - INFO - __main__ - Page 144: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:10,406 - INFO - __main__ - Page 145: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:11,221 - INFO - __main__ - Page 146: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:12,458 - INFO - __main__ - Page 147: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:14,358 - INFO - __main__ - Page 148: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:15,238 - INFO - __main__ - Page 149: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:16,156 - INFO - __main__ - Page 150: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:17,682 - INFO - __main__ - Page 151: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:20,174 - INFO - __main__ - Page 152: Parsed 21 listings, Inserted 20 new listings.
+2026-03-11 13:14:22,069 - INFO - __main__ - Page 153: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:22,876 - INFO - __main__ - Page 154: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:24,861 - INFO - __main__ - Page 155: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:25,477 - INFO - __main__ - Page 156: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:27,203 - INFO - __main__ - Page 157: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:29,265 - INFO - __main__ - Page 158: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:31,037 - INFO - __main__ - Page 159: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:31,644 - INFO - __main__ - Page 160: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:34,152 - INFO - __main__ - Page 161: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:34,921 - INFO - __main__ - Page 162: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:35,877 - INFO - __main__ - Page 163: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:37,265 - INFO - __main__ - Page 164: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:38,471 - INFO - __main__ - Page 165: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:40,762 - INFO - __main__ - Page 166: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:42,203 - INFO - __main__ - Page 167: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:44,381 - INFO - __main__ - Page 168: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:45,539 - INFO - __main__ - Page 169: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:47,991 - INFO - __main__ - Page 170: Parsed 21 listings, Inserted 21 new listings.
+2026-03-11 13:14:49,156 - INFO - __main__ - Page 171: Parsed 21 listings, Inserted 21 new listings.

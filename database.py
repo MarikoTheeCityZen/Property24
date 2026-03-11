@@ -1,10 +1,16 @@
+import logging
 import sqlite3
 from sqlite3 import Connection
 
+logger = logging.getLogger(__name__)
 db_path="data/listings.db"
 
 def create_connection(db_path: str = db_path) -> Connection:
-    conn=sqlite3.connect(db_path)
+    try:
+        conn = sqlite3.connect(db_path)
+        logger.info(f"Connected to database at {db_path}")
+    except sqlite3.Error as e:
+        logger.error(f"Error connecting to database: {e}")
     return conn
 
 def create_table(conn: Connection):
@@ -26,9 +32,12 @@ def create_table(conn: Connection):
         'SCRAPED_AT' TIMESTAMP DEFAULT CURRENT_TIMESTAMP
     );
     """
-    cursor = conn.cursor()
-    cursor.execute(create_table_sql)
-    conn.commit()
+    try:
+        cursor = conn.cursor()
+        cursor.execute(create_table_sql)
+        conn.commit()
+    except sqlite3.Error as e:
+        logger.error(f"Error creating table: {e}")
 
 def insert_listing(conn: Connection, listing: dict):
     insert_sql = """
@@ -54,4 +63,4 @@ def insert_listing(conn: Connection, listing: dict):
         ))
         conn.commit()
     except sqlite3.Error as e:
-        print(f"Error inserting listing: {e}")
+        logger.error(f"Error inserting listing: {e}")

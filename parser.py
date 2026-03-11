@@ -1,6 +1,8 @@
 import re
+import logging
+logger=logging.getLogger(__name__)
 #static fields to extract
-expected_fields=['page_number', 'listing_number', 'title', 'location', 'address', 'description','bedrooms','bathrooms','parking spaces','size', 'price', 'listing_link', 'agency']
+expected_fields=['page_number', 'listing_number', 'title', 'location', 'address', 'description','bedrooms','bathrooms','parking_spaces','size', 'price', 'listing_link', 'agency']
 #error_fields=['access denied', 'captcha', 'not found', 'error','blocked','forbidden','unavailable','service unavailable']
 #function to validate page content for potential access issues or CAPTCHAs by checking for specific keywords in the text content of the page
 
@@ -24,7 +26,7 @@ def parse_listings(soup):
     items=soup.find_all('div',class_='js_listingTile')
     #if the structure of the page has changed and no items are found, maybe a CAPTCHA or an empty page log a warning and return an empty list
     if not items:
-        print("No listing items found on the page.")
+        logger.warning("No listing items found on the page.")
         return attrs_list
     for item in items:
         attrs={col: None for col in expected_fields}
@@ -42,7 +44,7 @@ def parse_listings(soup):
         features=content.find_all('span',class_='p24_featureDetails')
         if features:
             for feature in features:
-                feature_name=feature.get('title').lower().strip()
+                feature_name=feature.get('title').lower().replace(' ', '_') 
                 if feature_name in expected_fields:
                     feature_value=feature.get_text(strip=True)
                     attrs[feature_name]=feature_value
