@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from fetcher import create_session, fetch_page
-from futbol24.checkpoint import load_checkpoint, save_checkpoint
+from checkpoint import load_checkpoint, save_checkpoint
 from parser import parse_listings
 from urllib.parse import urljoin
 import time
